@@ -4,7 +4,7 @@ This project is a solution to the "Landing Page" assignment from [The Odin Proje
 
 ## Screenshot
 
-![Project Screenshot](/images/Landing_Page.jpeg)
+![Project Screenshot](images/landing-page.jpeg)
 
 ## About This README
 
@@ -67,11 +67,11 @@ With the HTML structure in place, I moved on to styling with CSS.
 
 The images used in this project were sourced from various platforms. A huge thank you to the photographers for their beautiful work.
 
-- **Header Bird (`Macaw.jpg`):** By [Europeana](https://unsplash.com/photos/5NqwmKjx6jo) on Unsplash
-- **Cockatiel (`Cockatiel.jpg`):** By [David Clode](https://unsplash.com/photos/a-close-up-of-a-bird-on-a-tree-branch-EA0BMEBoWXo) on Unsplash
-- **Brahminy Kite (`Brahminy Kite.jpg`):** By [Cade](https://unsplash.com/photos/white-and-brown-bird-on-gray-rock-during-daytime-8zSbmf3pl2Q) on Unsplash
-- **Common Wood Pigeon (`Pigeon.jpg`):** By [Jolanda Legeer](https://unsplash.com/photos/a-gray-and-white-bird-sitting-on-top-of-a-tree-Uo2bPl11jn8) on Unsplash
-- **Greater Flamingo (`Flamingo.jpg`):** By [Gwen Weustink](https://unsplash.com/photos/close-up-photography-of-a-pink-bird-HvCtRFpxK8s) on Unsplash
+- **Header Bird (`macaw.jpg`):** By [Europeana](https://unsplash.com/photos/5NqwmKjx6jo) on Unsplash
+- **Cockatiel (`cockatiel.jpg`):** By [David Clode](https://unsplash.com/photos/a-close-up-of-a-bird-on-a-tree-branch-EA0BMEBoWXo) on Unsplash
+- **Brahminy Kite (`brahminy-kite.jpg`):** By [Cade](https://unsplash.com/photos/white-and-brown-bird-on-gray-rock-during-daytime-8zSbmf3pl2Q) on Unsplash
+- **Common Wood Pigeon (`pigeon.jpg`):** By [Jolanda Legeer](https://unsplash.com/photos/a-gray-and-white-bird-sitting-on-top-of-a-tree-Uo2bPl11jn8) on Unsplash
+- **Greater Flamingo (`flamingo.jpg`):** By [Gwen Weustink](https://unsplash.com/photos/close-up-photography-of-a-pink-bird-HvCtRFpxK8s) on Unsplash
 
 ## Acknowledgements
 
